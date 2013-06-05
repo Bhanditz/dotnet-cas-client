@@ -1100,7 +1100,7 @@ namespace DotNetCasClient
                 netId,
                 fromDate,
                 toDate,
-                false,
+                true,
                 serviceTicket,
                 cookiePath ?? FormsAuthentication.FormsCookiePath
             );
