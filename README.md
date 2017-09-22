@@ -1,3 +1,5 @@
+[![obsolete JetBrains project](http://jb.gg/badges/obsolete-flat-square.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+
 # .NET CAS Client
 
 The Jasig .NET CAS Client provides CAS integration for applications that use
